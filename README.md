@@ -86,4 +86,10 @@ Although not mandatory, you can include a text file explaining your approach to 
 Any extra features that you might want to include will be taken into account AS LONG as the basic feature requirements described in this sheet are met.
 Security of the overall solution will be taken into account.
 
-Design patterns and other coding best•practices will be taken into account</p>
+Design patterns and other coding best•practices will be taken into account
+
+Technologies: PHP, HTML5.
+
+I used  singleton pattern for connections.
+
+</p>
